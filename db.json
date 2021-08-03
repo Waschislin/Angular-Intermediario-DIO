@@ -109,26 +109,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
-    },
-    {
-      "titulo": "Filme sem descrição e sem imagem",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "",
-      "nota": 10,
-      "urlIMDb": "",
-      "genero": "Ação",
-      "id": 12
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "teste\nteste2\nteste3\nteste4",
-      "nota": 10,
-      "urlIMDb": "",
-      "genero": "Ficção Cientifica",
-      "id": 13
     }
   ]
 }
